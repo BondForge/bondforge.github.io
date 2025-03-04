@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: BondForge
 description: BondForge - Forging a new path in Bail Bonding
-site.logo: images/BondForgeLogo.png
+logo: images/BondForgeLogo.png
 plugins:
   - jekyll-remote-theme
