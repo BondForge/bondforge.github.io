@@ -4,4 +4,4 @@ description: BondForge - Forging a new path in Bail Bonding
 logo: images/BondForgeLogo.png
 plugins:
   - jekyll-remote-theme
-content: **BondForge**, formerly known as *Uncle Joey Bail Bond Management*, is a completely reimagined software suite designed for modern bonding companies. Our platform streamlines bond management, tracks defendant balances, and generates comprehensive reports—empowering your business with efficiency and control.
+content: "**BondForge**, formerly known as *Uncle Joey Bail Bond Management*, is a completely reimagined software suite designed for modern bonding companies. Our platform streamlines bond management, tracks defendant balances, and generates comprehensive reports—empowering your business with efficiency and control."
